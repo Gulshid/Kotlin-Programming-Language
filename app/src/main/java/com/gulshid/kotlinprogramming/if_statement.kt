@@ -8,6 +8,6 @@ fun main(args: Array<String>) {
         println("$n is Even Number ");
     }
     else{
-        print("$n is Odd Number ");≠
+        print("$n is Odd Number ");
     }
 }
