@@ -16,4 +16,7 @@ fun main(args: Array<String>) {
     println("Now this time constructor call directly")
     var mycar_3 = MyCars("Bogatti", 2021)
     println("${mycar_3.name} and ${mycar_3.model}")
+
+    var secondcar = MysecondCar("BMW", 2025)
+    println("The name of car is : ${secondcar.name} and model is : ${secondcar.model}")
 }
